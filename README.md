@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, 👋  I'm Roy</h1>
+<h3 align="center">A passionate self taught software developer from Israel</h3>
 
-<!--
-**NATALI-LEV/NATALI-LEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇮🇱 A Proud Israeli!
+- 🔭 I’m currently working on my BSc in Computer Science
+- 🌱 I’m currently learning
+  - High level mathematics
+  - AI tools to integrate in my workflows
+  - Always working and learning to improve on my craft
+  
+- 📫 How to reach me: *natalillev@gmail.com*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/15899290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15899290" height="30" width="40" /></a>
+</p>
