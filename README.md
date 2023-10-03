@@ -7,8 +7,12 @@
   - High level mathematics
   - AI tools to integrate in my workflows
   - Always working and learning to improve on my craft
+ 
+- I have a deep love for acquiring new technical skills and mastering the latest tools!
   
 - 📫 How to reach me: *natalillev@gmail.com*
+
+- Check my personal site: https://natali-lev.github.io/Personal-Portfolio/
 
 ## Stats
 
