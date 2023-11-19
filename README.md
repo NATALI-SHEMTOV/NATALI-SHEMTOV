@@ -12,7 +12,7 @@
   
 - 📫 How to reach me: *natalillev@gmail.com*
 - 👨🏽‍💻 Feel free to explore my repos!
-- 😎 Check my personal site: https://natali-lev.github.io/Personal-Portfolio/
+- 😎 Check my personal site: https://natali-lev.github.io/Portfolio/
 
 ## Stats
 
