@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, 👋  I'm Natali</h1>
-<h3 align="center">A passionate software developer from Israel</h3>
+<h3 align="center">A passionate software developer</h3>
 
+- I'm a software developer at the Investigation Department of the Israel Competition Authority.
 - 🇮🇱 A Proud Israeli!
 - 🔭 I’m currently working on my BSc in Computer Science
 - 🌱 I’m currently learning
