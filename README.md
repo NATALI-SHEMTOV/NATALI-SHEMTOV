@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, 👋  I'm Natali</h1>
-<h3 align="center">A software developer</h3>
 
 - I'm a software developer at the Investigation Department of the Israel Competition Authority.
 - 🇮🇱 A Proud Israeli!
