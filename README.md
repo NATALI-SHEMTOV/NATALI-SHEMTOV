@@ -2,11 +2,6 @@
 
 - I'm a software developer at the Investigation Department of the Israel Competition Authority.
 - 🇮🇱 A Proud Israeli!
-- 🔭 I’m currently working on my BSc in Computer Science
-- 🌱 I’m currently learning
-  - High level mathematics
-  - AI tools to integrate in my workflows
-  - Always working and learning to improve on my craft
 - 🛠 I have a deep love for acquiring new technical skills and mastering the latest tools!
 
   
