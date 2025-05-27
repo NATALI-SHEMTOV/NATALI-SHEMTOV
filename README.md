@@ -3,7 +3,13 @@
 - I'm a software developer at the Investigation Department of the Israel Competition Authority.
 - 🇮🇱 A Proud Israeli!
 - 🛠 I have a deep love for acquiring new technical skills and mastering the latest tools!
-- 
+
+## 🌐 Let's Connect
+
+📫 [LinkedIn](https://linkedin.com/in/natalishemtov)  
+🌍 [Portfolio](https://natali-shemtov.github.io/Portfolio)  
+📁 [GitHub](https://github.com/NATALI-SHEMTOV)
+
 ---
 
 ## 🔧 Tech Stack
@@ -21,9 +27,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=NATALI-SHEMTOV&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="NATALI-SHEMTOV" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NATALI-SHEMTOV&theme=github_dark&hide_border=true" alt="NATALI-SHEMTOV" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATALI-SHEMTOV&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="NATALI-SHEMTOV" /></p>
-
-## 🌐 Let's Connect
-
-📫 [LinkedIn](https://linkedin.com/in/natalishemtov)  
-🌍 [Portfolio](https://natali-shemtov.github.io/Portfolio)  
-📁 [GitHub](https://github.com/NATALI-SHEMTOV)
