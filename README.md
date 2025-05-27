@@ -25,7 +25,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=NATALI-LEV&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="NATALI-LEV" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NATALI-LEV&theme=github_dark&hide_border=true" alt="NATALI-LEV" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATALI-LEV&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="NATALI-LEV" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATALI-SHEMTOV&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="NATALI-SHEMTOV" /></p>
 
 ## 🌐 Let's Connect
 
