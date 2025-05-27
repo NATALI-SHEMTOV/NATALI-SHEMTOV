@@ -8,7 +8,6 @@
 
 📫 [LinkedIn](https://linkedin.com/in/natalishemtov)  
 🌍 [Portfolio](https://natali-shemtov.github.io/Portfolio)  
-📁 [GitHub](https://github.com/NATALI-SHEMTOV)
 
 ---
 
