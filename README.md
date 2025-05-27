@@ -3,12 +3,7 @@
 - I'm a software developer at the Investigation Department of the Israel Competition Authority.
 - 🇮🇱 A Proud Israeli!
 - 🛠 I have a deep love for acquiring new technical skills and mastering the latest tools!
-
-  
-- 📫 How to reach me: *natalillev@gmail.com*
-- 👨🏽‍💻 Feel free to explore my repos!
-- 😎 Check my personal site: https://natali-lev.github.io/Portfolio/
-
+- 
 ---
 
 ## 🔧 Tech Stack
