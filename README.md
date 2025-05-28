@@ -1,16 +1,5 @@
 <h1 align="center">Hi there, 👋  I'm Natali</h1>
 
-- I'm a software developer at the Investigation Department of the Israel Competition Authority.
-- 🇮🇱 A Proud Israeli!
-- 🛠 I have a deep love for acquiring new technical skills and mastering the latest tools!
-
-## 🌐 Let's Connect
-
-📫 [LinkedIn](https://linkedin.com/in/natalishemtov)  
-🌍 [Portfolio](https://natali-shemtov.github.io/Portfolio)  
-
----
-
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,6 +15,16 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
+---
+
+- I'm a software developer at the Investigation Department of the Israel Competition Authority.
+- 🇮🇱 A Proud Israeli!
+- 🛠 I have a deep love for acquiring new technical skills and mastering the latest tools!
+
+## 🌐 Let's Connect
+
+📫 [LinkedIn](https://linkedin.com/in/natalishemtov)  
+🌍 [Portfolio](https://natali-shemtov.github.io/Portfolio)  
 
 ---
 ## Stats
